@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/65cbd3bd-47c9-436e-bd1f-c410db96b421)
 ![image](https://github.com/user-attachments/assets/3793da68-687a-4f65-86b1-9c0e0f04ba60)
-![image](https://github.com/user-attachments/assets/771f9f7d-63ea-4a27-8cd5-1439996bcacb)
+![image](https://github.com/user-attachments/assets/08a55041-30ec-4198-9694-1ba1a4180c71)
 
 #### langchain.retrievers.multi_vector [MultiVectorRetriever] ![image](https://github.com/user-attachments/assets/efcf29ff-74d4-4d68-93c2-27fa10e358a9)
 

@@ -1,3 +1,13 @@
+### Agentic AI Legal Assistant – Full Pipel.py
+✅ STEP 1: Read PDF and Chunk It
+✅ STEP 2: Embed Chunks & Upload to Azure Cognitive Search
+✅ STEP 3: Insert Legal Clauses into Neo4j as Nodes
+✅ STEP 4: Build Hybrid Retriever (Azure + Neo4j)
+✅ STEP 5: Create LangGraph LegalAgent Node Using HybridRetriever
+✅ 🧪📊 STEP 6: Evaluation Function (TSR + Hallucination + Relevance)
+✅ 🧪 STEP 7: Run a Query and Score It
+
+
 #### langchain-multimodal.ipynb
 Extracts Text, Images, and tables and summarizes each of the data, then adds those summarized data to the Vector database 
 Images will be added separately InMemory with a UUID identifier

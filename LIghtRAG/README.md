@@ -1,5 +1,5 @@
 #### **LightRAG** 
-- over traditional RAG because it retrieves lightweight, highly relevant summaries, improving grounding, lowering latency and token cost, enabling hybrid search, and making compliance-critical applications like Legal and HR AI safer and more scalable.<br><br>
+- LightRAG over traditional RAG because it retrieves lightweight, highly relevant summaries, improving grounding, lowering latency and token cost, enabling hybrid search, and making compliance-critical applications like Legal and HR AI safer and more scalable.<br><br>
 ✅ 1. Lightweight Retrieval (Smaller Chunks)<br>
 ✅ 2. Better Groundedness<br>
 ✅ 3. Lower Latency<br>

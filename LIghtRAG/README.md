@@ -10,6 +10,7 @@
 ✅ 8. Guardrails and Safety Integration Friendly<br>
 ✅ 9. Better for High-Compliance Applications<br>
 ✅ 10. Flexible Multi-Hop Retrieval Ready<br>
+![image](https://github.com/user-attachments/assets/26f4919d-2615-4329-be35-69f47fe82eb0)
 
 _________________________________________________________
 ✅ 1. Lightweight Retrieval (Smaller Chunks)<br>

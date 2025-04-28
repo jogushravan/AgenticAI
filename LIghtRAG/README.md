@@ -52,3 +52,8 @@ Smaller contexts = Faster retrieval = Faster generation.<br>
 ✅ 10. Flexible Multi-Hop Retrieval Ready<br>
 - If initial retrieval is weak ➔<br>
 ➔ LightRAG makes it easy to do second retrieval dynamically (Multi-Hop design we built!)
+
+![image](https://github.com/user-attachments/assets/0f147557-cfe5-425a-ba3c-49298c48d5ea)
+![image](https://github.com/user-attachments/assets/47431f7b-867d-4955-862d-424584a63bcf)
+
+

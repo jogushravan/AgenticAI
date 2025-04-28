@@ -10,8 +10,12 @@
 ✅ 8. Guardrails and Safety Integration Friendly<br>
 ✅ 9. Better for High-Compliance Applications<br>
 ✅ 10. Flexible Multi-Hop Retrieval Ready<br>
-![image](https://github.com/user-attachments/assets/26f4919d-2615-4329-be35-69f47fe82eb0)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/26f4919d-2615-4329-be35-69f47fe82eb0" width="650" />
+<img src="https://github.com/user-attachments/assets/73249811-a9ea-49de-bb75-e0c0309126ea" width="350" />
+</p>
 
+![image](https://github.com/user-attachments/assets/45f52143-850f-4d70-bc50-14a55066f66e)
 _________________________________________________________
 ✅ 1. Lightweight Retrieval (Smaller Chunks)<br>
 - LightRAG retrieves summaries or small context pieces (~100 tokens),<br>

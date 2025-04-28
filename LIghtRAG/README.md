@@ -16,6 +16,9 @@
 </p>
 
 ![image](https://github.com/user-attachments/assets/45f52143-850f-4d70-bc50-14a55066f66e)
+![image](https://github.com/user-attachments/assets/668e53b8-8a94-41c4-adec-ff28e19a6ead)
+
+
 _________________________________________________________
 ✅ 1. Lightweight Retrieval (Smaller Chunks)<br>
 - LightRAG retrieves summaries or small context pieces (~100 tokens),<br>

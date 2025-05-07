@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/d521de5f-4a9b-4b9f-a49f-df7e92e672d7)
+
 ### Levels Of Text Splitting
 Level 1: Character Splitting - Simple static character chunks of data<br>
 Level 2: Recursive Character Text Splitting - Recursive chunking based on a list of separators<br>

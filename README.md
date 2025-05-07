@@ -8,7 +8,7 @@ Level 5: Agentic Splitting - Experimental method of splitting text with an agent
 from langchain.text_splitter import MarkdownTextSplitter<br>**
 from **unstructured.partition.pdf import partition_pdf**<br>**
 from langchain.text_splitter import PythonCodeTextSplitter<br>**
-CLIP model summary of Image**
+CLIP model summary of Image<br>**
 **Input->Rewrite User Query(DSPy)->Retrieve(VectDB)->LLM(Domain Specific)**
 
 ### Agentic AI Legal Assistant – Full Pipel.py
